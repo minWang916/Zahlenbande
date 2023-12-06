@@ -1,7 +1,7 @@
 # Zahlenbande
 
-***Project description
+###Project description
 
-***Game rule
+###Game rule
 
 
